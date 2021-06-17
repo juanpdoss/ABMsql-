@@ -1,0 +1,12 @@
+C:\Users\juanp\source\repos\ABMsql\ABMsql\bin\Debug\ABMsql.dll
+C:\Users\juanp\source\repos\ABMsql\ABMsql\bin\Debug\ABMsql.pdb
+C:\Users\juanp\source\repos\ABMsql\ABMsql\obj\Debug\ABMsql.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\ABMsql\ABMsql\obj\Debug\ABMsql.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\ABMsql\ABMsql\obj\Debug\ABMsql.dll
+C:\Users\juanp\source\repos\ABMsql\ABMsql\obj\Debug\ABMsql.pdb
+C:\Users\juanp\Desktop\ABMsql-\ABMsql\bin\Debug\ABMsql.dll
+C:\Users\juanp\Desktop\ABMsql-\ABMsql\bin\Debug\ABMsql.pdb
+C:\Users\juanp\Desktop\ABMsql-\ABMsql\obj\Debug\ABMsql.csproj.AssemblyReference.cache
+C:\Users\juanp\Desktop\ABMsql-\ABMsql\obj\Debug\ABMsql.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\ABMsql-\ABMsql\obj\Debug\ABMsql.dll
+C:\Users\juanp\Desktop\ABMsql-\ABMsql\obj\Debug\ABMsql.pdb
